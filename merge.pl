@@ -6,7 +6,7 @@ use File::Basename;
 
 
 my $usage =
-"Info: TODO, Need to finish by yourself
+"Info: TODO:
 verion: 0.2.5
 Usages:\nperl merge.pl -p [fdr or fc] -i inputFiles... -o outputfile(two output files: union, intersect)...
 for example: 
